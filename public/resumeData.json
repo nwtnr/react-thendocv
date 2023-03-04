@@ -1,0 +1,119 @@
+{
+  "main": {
+    "name":"Thendo Netshivhazwaulu",
+    "description":"I am a self taught web development engineer and I use react and vue.js to develop pages.",
+    "image":"profilepic.jpg",
+    "bio":"nquistive, enegetic Computer Science Graduate skilled in leadership, with a strong foundation in math, programminng logic, and cross-platform coding. Recent Computer Science Graduate seeking an entry level position to leverage solid development and pragramming skills with a focus on collaboration, communication, passion an creativity as a programmer.",
+    "contactmessage":"Contact Information",
+    "email": "nwtnr@outlook.com",
+    "phone": "082 225 8073",
+    "github":"https://github.com/nwtnr/thendo-react-cv",
+    "project":"https://github.com/nwtnr/thendo-react-cv",
+    "address":{
+      "street":"Roodepoort",
+      "city":"Johannesburg, ",
+      "state":"South Africa",
+      "zip": "2188"
+    },
+    "website": "https://github.com/nwtnr/thendo-react-cv/raw/master/public/resume.pdf",
+    "resumedownload":"https://github.com/nwtnr/thendo-react-cv/raw/master/public/resume.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/THENDONET",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"http://www.linkedin.com/in/nwtnr",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/thendonetshi/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nwtnr",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"University of Venda",
+        "degree":"B.Sc Computer Science & Information Systems",
+        "graduated":"July 2022",
+        "description":"Algorithms & Data Structures, Object Oriented Programming, Software Engineering, Web Development( JavaScript, PHP, HTML), Operating Systems , Computer Networking, and Databases( MySQL"
+      },
+      {
+        "school":"Tondalushaka Secondary School",
+        "degree":"Grade 12(NSC)",
+        "graduated":"December 2016",
+        "description":"Mathematics, Physical Science, Life Sciences, Geography, Tshivenda HL, English FAL, Life Orientation"
+      }
+    ],
+    "work":[
+      {
+        "company":"Air Traffic and Navigation Services",
+        "title":"IT Planning & Governance Trainee",
+        "years":"August 2022 - Present",
+        "description":"COBIT Assessment, Data Anyalysis, IT Policy Framework, IT Contract Management, End User Support"
+      },
+      {
+        "company":"University of Venda",
+        "title":"E-learning Mentor",
+        "years":"March 2019 - December 2019",
+        "description":"E-Learning Training Facilitator Assisting Students to Access online LMS"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"SQL",
+        "level":"75%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"C++",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"React Resume",
+        "category":"Resume website using React & vue.js ",
+        "image":"01.jpg",
+        "url":"https://github.com/nwtnr/thendo-react-cv"
+      }
+    ]
+  }
+}
